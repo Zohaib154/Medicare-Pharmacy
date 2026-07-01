@@ -176,6 +176,7 @@ The app is configured to support database-backed pharmacy workflows such as inve
 - sales and invoice handling
 - prescription tracking
 - desktop UI for local use
+- should work on deb but not tested
 
 ---
 ## About Me
