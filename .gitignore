@@ -1,0 +1,45 @@
+# Build
+target/
+target/dist/
+*.jar
+!maven-dist/**/*.jar
+
+# Bundled Maven (keep locally, do not commit)
+maven-dist/
+
+# Installer output
+RxProSetup.exe
+*.msi
+
+# Databases
+*.db
+*.mv.db
+*.trace.db
+.rxpro/
+
+# Logs
+*.log
+hs_err_pid*.log
+replay_pid*.log
+logs/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.classpath
+.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp / archives
+*.tmp
+*.bak
+target/app.zip
