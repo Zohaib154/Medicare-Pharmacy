@@ -18,29 +18,6 @@ The system uses a desktop shell so the application can run locally on Windows wi
 
 ---
 
-## Submission Screenshots
-
-The following images were extracted from `Database 4th Sem Project.docx` and are displayed below:
-
-| Figure | Image |
-|--------|-------|
-| Figure 1 | ![Figure 1](docs/submission-images/image1.png) |
-| Figure 2 | ![Figure 2](docs/submission-images/image2.jpeg) |
-| Figure 3 | ![Figure 3](docs/submission-images/image3.png) |
-| Figure 4 | ![Figure 4](docs/submission-images/image4.png) |
-| Figure 5 | ![Figure 5](docs/submission-images/image5.png) |
-| Figure 6 | ![Figure 6](docs/submission-images/image6.png) |
-| Figure 7 | ![Figure 7](docs/submission-images/image7.png) |
-| Figure 8 | ![Figure 8](docs/submission-images/image8.png) |
-| Figure 9 | ![Figure 9](docs/submission-images/image9.png) |
-| Figure 10 | ![Figure 10](docs/submission-images/image10.png) |
-| Figure 11 | ![Figure 11](docs/submission-images/image11.png) |
-| Figure 12 | ![Figure 12](docs/submission-images/image12.png) |
-| Figure 13 | ![Figure 13](docs/submission-images/image13.png) |
-| Figure 14 | ![Figure 14](docs/submission-images/image14.png) |
-
----
-
 ## Project Highlights
 
 - Java 17 backend
@@ -57,23 +34,32 @@ The following images were extracted from `Database 4th Sem Project.docx` and are
 ## Screenshots
 
 The screenshots below are the only image assets included in this README.
-
-| # | Image |
-|---|---|
-| 1 | ![Screenshot 1](docs/submission-images/image1.png) |
-| 2 | ![Screenshot 2](docs/submission-images/image2.jpeg) |
-| 3 | ![Screenshot 3](docs/submission-images/image3.png) |
-| 4 | ![Screenshot 4](docs/submission-images/image4.png) |
-| 5 | ![Screenshot 5](docs/submission-images/image5.png) |
-| 6 | ![Screenshot 6](docs/submission-images/image6.png) |
-| 7 | ![Screenshot 7](docs/submission-images/image7.png) |
-| 8 | ![Screenshot 8](docs/submission-images/image8.png) |
-| 9 | ![Screenshot 9](docs/submission-images/image9.png) |
-| 10 | ![Screenshot 10](docs/submission-images/image10.png) |
-| 11 | ![Screenshot 11](docs/submission-images/image11.png) |
-| 12 | ![Screenshot 12](docs/submission-images/image12.png) |
-| 13 | ![Screenshot 13](docs/submission-images/image13.png) |
-| 14 | ![Screenshot 14](docs/submission-images/image14.png) |
+<table>
+  <tr>
+    <td align="center"><b></b><br><img src="docs/submission-images/image3.png" width="150" alt="Screenshot 3"></td>
+    <td align="center"><b></b><br><img src="docs/submission-images/image4.png" width="150" alt="Screenshot 4"></td>
+  </tr>
+  <tr>
+    <td align="center"><b></b><br><img src="docs/submission-images/image5.png" width="150" alt="Screenshot 5"></td>
+    <td align="center"><b></b><br><img src="docs/submission-images/image6.png" width="150" alt="Screenshot 6"></td>
+  </tr>
+  <tr>
+    <td align="center"><b></b><br><img src="docs/submission-images/image13.png" width="150" alt="Screenshot 13"></td>
+    <td align="center"><b></b><br><img src="docs/submission-images/image14.png" width="150" alt="Screenshot 14"></td>
+   </tr>
+  <tr>
+    <td align="center"><b></b><br><img src="docs/submission-images/image7.png" width="150" alt="Screenshot 7"></td>
+    <td align="center"><b></b><br><img src="docs/submission-images/image8.png" width="150" alt="Screenshot 8"></td>
+  </tr>
+  <tr>
+    <td align="center"><b></b><br><img src="docs/submission-images/image9.png" width="150" alt="Screenshot 9"></td>
+    <td align="center"><b></b><br><img src="docs/submission-images/image10.png" width="150" alt="Screenshot 10"></td>
+   </tr>
+  <tr>
+    <td align="center"><b></b><br><img src="docs/submission-images/image11.png" width="150" alt="Screenshot 11"></td>
+    <td align="center"><b></b><br><img src="docs/submission-images/image12.png" width="150" alt="Screenshot 12"></td>
+  </tr>
+</table>
 
 ---
 
@@ -192,7 +178,7 @@ The app is configured to support database-backed pharmacy workflows such as inve
 - desktop UI for local use
 
 ---
+## About Me
 
-## Notes
-
-This README is intentionally kept clean and focused on the project itself.
+- My name is Zohaib Asghar
+- If You are Here Give a Star😊
